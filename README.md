@@ -3,7 +3,7 @@ VladVA is a powerful voice assistant powered by OpenAI and ElevenLabs. VladVA ut
 
 ## Step-By-Step Guide
 1. Open your command terminal of choice
-2. Download ffmpeg.exe, ffplay.exe, and ffprobe.exe, and install them in the VladVA\Code directory
+2. Download ffmpeg.exe, ffplay.exe, and ffprobe.exe, and install them in the VladVA\Code directory (https://www.gyan.dev/ffmpeg/builds/)
 3. cd into the VladVA\Code directory on your PC
 4. Run the script using "python main.py"
 5. Have fun!
