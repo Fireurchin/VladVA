@@ -14,7 +14,9 @@ Simply paste your API keys in VladVA\Code\vladGPT.py and VladVA\Code\vladTTS.py 
 
 ## Required Libraries:
 OpenAI 0.27.4
+
 ElevenLabs
+
 Regex 2023.5.5
 
 ## Copyright Notice
